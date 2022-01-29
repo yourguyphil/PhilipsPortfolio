@@ -804,7 +804,8 @@ footer {
 		float: none
 	}
 	.project-image {
-		display: none
+		float: none;
+		padding-top: 10px;
 	}
 	.project-info {
 		position: relative;
